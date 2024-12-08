@@ -1,9 +1,3 @@
 files/*
 uploads/*
 *__pycache__*
-.DS_Store
-*.swp
-*.log
-src/files/*
-src/uploads/*
-.venv
