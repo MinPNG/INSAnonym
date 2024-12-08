@@ -1,2 +1,0 @@
-RewriteEngine on
-RewriteRule ^(.*)$ index.php?r=$1 [L,QSA]
